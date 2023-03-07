@@ -1,2 +1,4 @@
-Vizions Co.  algorithm 
+Vizions Co.  algorithms       
+[
 Data Science and Actuarial Science related 
+ ]
